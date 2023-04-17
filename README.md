@@ -3,24 +3,23 @@
 </div>
 
 ### <div align="center">I'm Dmitry, a  4 year's experience QA engineer. Focusing to become on SDET</div> 
-
 <p align="center">
    <a href="https://t.me/TheComrad24"><img src="https://img.shields.io/badge/-Telegram-blue?color=blue&logo=telegram&logoColor=white"/></a>
    <a href="https://github.com/TheComrad24"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"/></a>
    <a href=""><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
    <a href="mailto:chertsov0224@yandex.ru"><img src="https://img.shields.io/badge/-Email-yellow?style=flat mailto:chertsov0224@yandex.ru"/></a>
-</p>
+</p><br>
 
 ## About me
  - I'm QA engineer form Russia. Looking for new remote job 50% manual 50% automated (or more). <br>
  - I’m currently learning Docker, Jenkins <br>
  - I'm currently working at CFT. <br>
- - When i'm not testing, you can find me: watching armrestling💪, UFC🏆, riding a bike🚴‍ or swimming🥽
+ - When i'm not testing, you can find me: watching armrestling, UFC, riding a bike or swimming.<br>
 
 ## Languages and Tools: 
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
-   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="37%" align="right"/>
+   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="37%" align="right" margin-right"20px"/>
   </a>
   
   <br>
@@ -41,7 +40,6 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
 
-<br />
 
 
 <div><p align="center">
