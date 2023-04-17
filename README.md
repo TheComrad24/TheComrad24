@@ -5,10 +5,10 @@
 ### <div align="center">I'm Dmitry, a  4 year's experience QA engineer. Focusing to become on SDET</div> 
 
 <p align="center">
-   <a href=""><img src="https://img.shields.io/badge/-Telegram-blue?color=blue&logo=telegram&logoColor=white"/></a>
+   <a href="https://t.me/TheComrad24"><img src="https://img.shields.io/badge/-Telegram-blue?color=blue&logo=telegram&logoColor=white"/></a>
    <a href="https://github.com/TheComrad24"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"/></a>
    <a href=""><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
-   <a href=""><img src=""/></a>
+   <a href="mailto:chertsov0224@yandex.ru"><img src="https://img.shields.io/badge/-Email-yellow?style=flat mailto:chertsov0224@yandex.ru"/></a>
 </p>
 
 
