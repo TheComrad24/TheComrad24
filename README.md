@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @TheComrad24
-- 👀 I’m interested in QA Automation
-- 🌱 I’m currently learning  Java, Selenium, Postman, Git, Linux, Docker, Jenkins, Jarles proxy
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 62%" />
+</div>
 
-**🐱‍👤About Me**
-
-**🛠  Tech Stack**
-
-**🤝🏻  Connect with Me**
+### <div align="center">I'm Dmitry, a  4 year's experience QA engineer. Focusing to become on SDET</div>  
