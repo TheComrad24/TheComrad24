@@ -11,16 +11,18 @@
 </p><br>
 
 ## About me
- - I'm QA engineer form Russia. Looking for new remote job 50% manual 50% automated (or more). <br>
- - I’m currently learning Docker, Jenkins <br>
- - I'm currently working at CFT. <br>
- - When i'm not testing, you can find me: watching armrestling, UFC, riding a bike or swimming.<br>
+<p>
+   <img src="https://www.creativefabrica.com/wp-content/uploads/2021/07/25/Bug-Fixing-Icon-Graphics-15097409-1-580x386.jpg" width="21%" align="right"/>
+   
+   - I'm QA engineer form Russia. Looking for new remote job 50% manual 50% automated (or more). <br>
+   - I’m currently learning Docker, Jenkins <br>
+   - I'm currently working at CFT. <br>
+   - When i'm not testing, you can find me: watching armrestling, UFC, riding a bike or swimming.<br>
+ </p>
 
 ## Languages and Tools: 
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
-   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="37%" align="right" margin-right"20px"/>
-  </a>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="37%" align="right"/>
   
   <br>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
