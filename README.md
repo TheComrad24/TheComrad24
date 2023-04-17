@@ -12,7 +12,7 @@
 
 ## About me
 <p>
-   <img src="https://www.creativefabrica.com/wp-content/uploads/2021/07/25/Bug-Fixing-Icon-Graphics-15097409-1-580x386.jpg" width="21%" align="right"/>
+   <img src="https://www.creativefabrica.com/wp-content/uploads/2021/07/25/Bug-Fixing-Icon-Graphics-15097409-1-580x386.jpg" width="22%" align="right"/>
    
    - I'm QA engineer form Russia. Looking for new remote job 50% manual 50% automated (or more). <br>
    - I’m currently learning Docker, Jenkins <br>
@@ -40,14 +40,10 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-</p>
+</p><br>
 
-
-
-<div><p align="center">
-   
-   #### Pinned
-   
+## Pinned
+<p align="center">
    <a href="https://github.com/TheComrad24/reqresApiTesting">
       <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheComrad24&repo=reqresApiTesting&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892"/>
    </a>
@@ -55,5 +51,5 @@
    <a href="https://github.com/TheComrad24/reqresApiTesting">
       <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheComrad24&repo=reqresApiTesting&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892"/>
    </a>
-</p><div>
+</p>
 
