@@ -21,7 +21,7 @@
  </p>
 
 ## Languages and Tools: 
-<p>
+<p align="center">
   <br>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
@@ -38,7 +38,7 @@
 </p>
 
 <div align="center">
-   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
+   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="45%"/>
 </div>
    
 ## Pinned
