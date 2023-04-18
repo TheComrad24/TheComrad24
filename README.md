@@ -41,14 +41,15 @@
    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="45%"/>
 </div>
    
-## Pinned
+## My projects
 <p align="center">
    <a href="https://github.com/TheComrad24/reqresApiTesting">
-      <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheComrad24&repo=reqresApiTesting&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892"/>
+      <img width='40%' src="https://github-readme-stats.vercel.app/api/pin/?username=TheComrad24&repo=reqresApiTesting&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892"/>
    </a>
-   <span>&nbsp;</span>
    <a href="https://github.com/TheComrad24/reqresApiTesting">
-      <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheComrad24&repo=reqresApiTesting&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892"/>
+      <img width='40%' src="https://github-readme-stats.vercel.app/api/pin/?username=TheComrad24&repo=reqresApiTesting&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892"/>
+   </a>
+   <a href="https://github.com/TheComrad24/reqresApiTesting">
+      <img width='40%' src="https://github-readme-stats.vercel.app/api/pin/?username=TheComrad24&repo=reqresApiTesting&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892"/>
    </a>
 </p>
-
