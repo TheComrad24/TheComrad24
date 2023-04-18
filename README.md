@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 67%" />
 </div>
 
 ### <div align="center">I'm Dmitry, a  4 year's experience QA engineer. Focusing to become on SDET</div> 
@@ -17,9 +17,10 @@
    - I'm QA engineer form Russia. Looking for new remote job 50% manual 50% automated (or more). <br>
    - I’m currently learning Docker, Jenkins <br>
    - I'm currently working at CFT. <br>
-   - When i'm not testing, you can find me: watching armrestling, UFC, riding a bike or swimming.<br>
+   - When i'm not testing, you can find me: watching armrestling, UFC, riding a bike or swimming.
+   <br><br>
  </p>
-
+ 
 ## Languages and Tools: 
 <p align="center">
   <br>
