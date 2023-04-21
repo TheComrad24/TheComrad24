@@ -17,7 +17,7 @@
    - I'm QA engineer form Russia. Looking for new remote job 50% manual 50% automated (or more). <br>
    - I’m currently learning Docker, Jenkins <br>
    - I'm currently working at CFT. <br>
-   - When i'm not testing, you can find me: watching armrestling, UFC, riding a bike or swimming.
+   - When i'm not testing, you can find me: watching armrestling, UFC, ride a bike or swimming.
    <br><br>
  </p>
  
