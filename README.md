@@ -44,7 +44,7 @@
    
 ## My projects
 <p align="center">
-  <a href="https://github.com/TheComrad24/reqresApiTesting"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TheComrad24&repo=reqresApiTesting&theme=buefy&border_color=0D1117&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&show_icons=false></a>
+  <a href="https://github.com/TheComrad24/reqresApiTesting"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TheComrad24&repo=reqresApiTesting&theme=buefy&border_color=0D1117&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&show_icons=false"</a>
   <a href="https://github.com/TheComrad24/Scripts"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TheComrad24&repo=scripts&theme=buefy&border_color=0D1117&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&show_icons=false"></a>
-   <a href="https://github.com/TheComrad24/Scripts"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TheComrad24&repo=Scripts&theme=buefy&border_color=0D1117&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&show_icons=false">     </a>
+   <a href="https://github.com/TheComrad24/Scripts"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TheComrad24&repo=Scripts&theme=buefy&border_color=0D1117&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&show_icons=false"></a>
 </p>
