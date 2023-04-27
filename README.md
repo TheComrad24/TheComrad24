@@ -22,8 +22,9 @@
 <p>
    <!--  
    <img src="https://github.com/TheComrad24/img/blob/main/laugh.gif?raw=true" align="right" width="17%" />
--->
   <img src="https://www.creativefabrica.com/wp-content/uploads/2021/07/25/Bug-Fixing-Icon-Graphics-15097409-1-580x386.jpg" width="22%" align="right"/>
+-->
+
    - I'm QA engineer form Russia. Looking for new remote job 50% manual 50% automated (or more). <br>
    - I’m currently learning Docker, Jenkins <br>
    - I'm currently working at CFT. <br>
