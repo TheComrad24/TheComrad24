@@ -24,8 +24,9 @@
 
 ## Languages and Tools: 
 <div>
-  <img width="24%" src="https://github.com/TheComrad24/img/blob/main/U55Q.gif?raw=true" align="right">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="20%" align="right"/>
   <div align="left">
+     <br>
      <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
      <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
      <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
@@ -43,16 +44,15 @@
 
 <!--
 <div align="center">
-   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="45%"/>
+    <img width="24%" src="https://github.com/TheComrad24/img/blob/main/U55Q.gif?raw=true" align="right">
 </div>
 -->
-<br>     
 
 ## My projects   
-<p align="left">
-   <a href="https://github.com/TheComrad24/reqresApiTesting"><img width="230" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TheComrad24&repo=ReqresApiTesting&theme=buefy&border_color=0D1117&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&show_icons=false">      </a>
-  <a href="https://github.com/TheComrad24/Scripts"><img width="230" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TheComrad24&repo=scripts&theme=buefy&border_color=0D1117&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&show_icons=false"></a>
-   <a href="https://github.com/TheComrad24/Scripts"><img width="230" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TheComrad24&repo=Scripts&theme=buefy&border_color=0D1117&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&show_icons=false"></a>
+<p align="center">
+   <a href="https://github.com/TheComrad24/reqresApiTesting"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TheComrad24&repo=ReqresApiTesting&theme=buefy&border_color=0D1117&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&show_icons=false">      </a>
+  <a href="https://github.com/TheComrad24/Scripts"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TheComrad24&repo=scripts&theme=buefy&border_color=0D1117&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&show_icons=false"></a>
+   <a href="https://github.com/TheComrad24/Scripts"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TheComrad24&repo=Scripts&theme=buefy&border_color=0D1117&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&show_icons=false"></a>
 </p>
 
 
