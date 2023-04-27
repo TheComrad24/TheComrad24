@@ -47,6 +47,7 @@
     <img width="24%" src="https://github.com/TheComrad24/img/blob/main/U55Q.gif?raw=true" align="right">
 </div>
 -->
+<br>
 
 ## My projects   
 <p align="center">
