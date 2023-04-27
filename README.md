@@ -23,24 +23,24 @@
  </p>
 
 ## Languages and Tools: 
-<div>
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="20%" align="right"/>
+<p>
+  <div><img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="600" align="right"/> </div>
   <div align="left">
      <br>
-     <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-     <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-     <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-     <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-     <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-     <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-     <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-     <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-     <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-     <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-     <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-     <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+     <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+     <code><img width="15%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+     <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+     <code><img width="15%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+     <code><img width="15%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
+     <code><img width="15%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+     <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+     <code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+     <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+     <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+     <code><img width="15%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+     <code><img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
    </div>
-</div>
+</p>
 
 <!--
 <div align="center">
@@ -50,9 +50,9 @@
 
 ## My projects   
 <p align="center">
-   <a href="https://github.com/TheComrad24/reqresApiTesting"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TheComrad24&repo=ReqresApiTesting&theme=buefy&border_color=0D1117&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&show_icons=false">      </a>
-  <a href="https://github.com/TheComrad24/Scripts"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TheComrad24&repo=scripts&theme=buefy&border_color=0D1117&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&show_icons=false"></a>
-   <a href="https://github.com/TheComrad24/Scripts"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TheComrad24&repo=Scripts&theme=buefy&border_color=0D1117&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&show_icons=false"></a>
+   <a href="https://github.com/TheComrad24/reqresApiTesting"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TheComrad24&repo=ReqresApiTesting&theme=buefy&border_color=0D1117&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&show_icons=false">      </a>
+  <a href="https://github.com/TheComrad24/Scripts"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TheComrad24&repo=scripts&theme=buefy&border_color=0D1117&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&show_icons=false"></a>
+   <a href="https://github.com/TheComrad24/Scripts"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TheComrad24&repo=Scripts&theme=buefy&border_color=0D1117&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&show_icons=false"></a>
 </p>
 
 
