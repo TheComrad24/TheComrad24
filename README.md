@@ -34,8 +34,8 @@
 
 ## Languages and Tools: 
 <p align="center">
-  <div><img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="210" align="right"/> </div>
-  <div align="left">
+  <div><img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="210" align="right" height="160"/> </div>
+  <div align="left"> 
      <br>
      <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
      <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
