@@ -24,7 +24,7 @@
 
 ## Languages and Tools: 
 <p align="right">
-  <div><img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="25%" align="right"/> </div>
+  <div><img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="20%" align="right"/> </div>
   <div align="left">
      <br>
      <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
