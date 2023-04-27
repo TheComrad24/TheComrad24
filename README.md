@@ -1,6 +1,6 @@
 <div align="center">
  
-   <img src="https://github.com/TheComrad24/img/blob/main/cat.gif?raw=true" align="center" width="75%" /
+   <img src="https://github.com/TheComrad24/img/blob/main/cat.gif?raw=true" align="center" width="75%" />
   <!--
     <img src="https://github.com/TheComrad24/img/blob/main/train.gif?raw=true" align="center" width="75%" />
     <img src="https://github.com/TheComrad24/img/blob/main/night.gif?raw=true" align="center" style="width: 95%" />
