@@ -1,25 +1,7 @@
 <div align="center">
- 
-<img src="https://github.com/TheComrad24/img/blob/main/treugolnik.jpg?raw=true" align="center" width="78%" />
-   
- 
-   
-  <!--
-    <img src="https://github.com/TheComrad24/img/blob/main/cat.gif?raw=true" align="center" width="75%" />
-    <img src="https://github.com/TheComrad24/img/blob/main/train.gif?raw=true" align="center" width="75%" />
-    <img src="https://github.com/TheComrad24/img/blob/main/night.gif?raw=true" align="center" style="width: 95%" />
-
-  <img src="https://github.com/TheComrad24/img/blob/main/hello-world.jpg?raw=true" align="center" width="75%" />
-  <img src="https://github.com/TheComrad24/img/blob/main/hello2.png?raw=true" align="center" width="100%" />
-  <img src="https://github.com/TheComrad24/img/blob/main/hello3.jpg?raw=true" align="center" width="90%" />
-
-   
-  -->
+  <img src="https://github.com/TheComrad24/img/blob/main/treugolnik.jpg?raw=true" align="center" width="78%" />
 </div>
-
-
-
-                                                                                    
+                                                                            
 ### <div align="center">I'm Dmitry, a  4 year's experience QA engineer. Focusing to become on SDET</div> 
 <p align="center">
    <a href="https://t.me/TheComrad24"><img src="https://img.shields.io/badge/-Telegram-blue?color=blue&logo=telegram&logoColor=white"/></a>
@@ -60,15 +42,7 @@
      <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
      <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
    </div>
-</p>
-
-<!--
-<div align="center">
-    <img width="24%" src="https://github.com/TheComrad24/img/blob/main/U55Q.gif?raw=true" align="right">
-</div>
--->
-
-<br>
+</p><br>
 
 ## My projects   
 <p align="center">
@@ -76,6 +50,3 @@
     <a href="https://github.com/TheComrad24/Scripts"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TheComrad24&repo=scripts&theme=buefy&border_color=0D1117&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&show_icons=false"></a>
      <img src="https://github.com/TheComrad24/img/blob/main/NYK3.gif?raw=true" width="250" height="120" />
 </p>
-
-
-
