@@ -1,7 +1,7 @@
 <div align="center">
  
 
-   <img src="https://github.com/TheComrad24/img/blob/main/hello3.jpg?raw=true" align="center" width="90%" />
+   <img src="https://github.com/TheComrad24/img/blob/main/hello3.jpg?raw=true" align="center" width="92%" />
  
    
   <!--
