@@ -1,6 +1,6 @@
 <div align="center">
  
-<img src="https://github.com/TheComrad24/img/blob/main/treugolnik.jpg?raw=true" align="center" width="80%" />
+<img src="https://github.com/TheComrad24/img/blob/main/treugolnik.jpg?raw=true" align="center" width="75%" />
    
  
    
