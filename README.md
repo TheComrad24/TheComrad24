@@ -26,7 +26,10 @@
 
 ## Languages and Tools: 
 <p align="center">
+  <!--
   <div><img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="210" align="right" height="160"/> </div>
+  -->
+  <div><img src="https://github.com/TheComrad24/img/blob/main/programming.gif?raw=true" width="210" align="right" height="180"/> </div>
   <div align="left"> 
      <br>
      <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
