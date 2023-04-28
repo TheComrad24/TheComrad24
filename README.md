@@ -30,16 +30,17 @@
   <div align="left"> 
      <br>
      <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-     <code><img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
+     <code><img width="10%" src="https://qaautomationexpert.files.wordpress.com/2021/05/image-103.png"></code>
      <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
      <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
      <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
+     <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
      <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg"></code>
      <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-     <code><img width="10%" src="https://qaautomationexpert.files.wordpress.com/2021/05/image-103.png"></code>
+     <code><img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
      <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-     <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
      <code><img width="10%" src="https://www.libertyfoxtech.com/wp-content/uploads/2019/04/confluence-logo_538x218.jpg"></code>
+     <code><img width="10%" src="https://linuxthebest.net/wp-content/uploads/2020/06/d6ef6454d33f5415e52da62a795bce37.png"></code>
    </div>
 </p><br>
 
