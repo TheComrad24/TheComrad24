@@ -1,9 +1,18 @@
 <div align="center">
  
-   <img src="https://github.com/TheComrad24/img/blob/main/cat.gif?raw=true" align="center" width="75%" />
+
+   <img src="https://github.com/TheComrad24/img/blob/main/hello3.jpg?raw=true" align="center" width="90%" />
+ 
+   
   <!--
+    <img src="https://github.com/TheComrad24/img/blob/main/cat.gif?raw=true" align="center" width="75%" />
     <img src="https://github.com/TheComrad24/img/blob/main/train.gif?raw=true" align="center" width="75%" />
     <img src="https://github.com/TheComrad24/img/blob/main/night.gif?raw=true" align="center" style="width: 95%" />
+
+  <img src="https://github.com/TheComrad24/img/blob/main/hello-world.jpg?raw=true" align="center" width="75%" />
+  <img src="https://github.com/TheComrad24/img/blob/main/hello2.png?raw=true" align="center" width="100%" />
+
+   <img src="https://github.com/TheComrad24/img/blob/main/treugolnik.jpg?raw=true" align="center" width="40%" />
   -->
 </div>
 
