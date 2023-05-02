@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/TheComrad24/img/blob/main/treugolnik.jpg?raw=true" align="center" width="78%" />
+  <img src="https://github.com/TheComrad24/img/blob/main/treugolnik.jpg?raw=true" align="center" width="80%" />
 </div>
                                                                             
 ### <div align="center">I'm Dmitry, a  4 year's experience QA engineer. Focusing to become on SDET</div> 
